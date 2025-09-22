@@ -90,12 +90,19 @@ Extracted feature importance from the final tuned XGBoost model. Top predictors 
 
 
 ---
-
+## 📊 Results Summary
+- ✅ Tuned XGBoost was the best model, with **R² = 0.905** and **MAE ≈ $15,947**
+- ✅ ExterQual, OverallQual, and GrLivArea were the most important features
+- ✅ Residual plots and cross-validation confirmed good model generalization
+  
 ## 🧠 Key Takeaways
 
 - XGBoost with hyperparameter tuning gave the best prediction performance
 - EDA played a critical role in identifying valuable features
 - A full end-to-end ML pipeline was implemented independently
+- Ensemble methods like XGBoost significantly outperformed traditional linear models
+- Feature engineering and preprocessing were critical for model performance
+- Residual and feature importance plots offered insights into model behavior
 
 ---
 
