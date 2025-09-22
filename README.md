@@ -101,6 +101,7 @@ Extracted feature importance from the final tuned XGBoost model. Top predictors 
 
 ## 📁 Project Structure
 
+```
 HOUSE-PRICE-PREDICTION/
 │
 ├── 📁 data/                          
@@ -125,8 +126,7 @@ HOUSE-PRICE-PREDICTION/
 │
 ├── README.md                         # Project documentation (this file)
 └── requirements.txt                  # Required Python libraries
-
-
+```
 ---
 
 ## 📌 Future Improvements
